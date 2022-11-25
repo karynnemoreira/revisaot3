@@ -47,6 +47,13 @@ li{
     font-size: 1.4rem;
 }
 
+footer{
+    background-color: green;
+}
+.imgFooter{
+    width: 15%;
+}
+
 
 /*RESPONSIVO - MOBILE */
 @media(min-width: 201px) and (max-width: 500px){
